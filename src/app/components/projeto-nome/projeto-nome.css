@@ -1,0 +1,13 @@
+.caixa-projeto {
+  padding: 16px;
+  margin: 16px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+button {
+  padding: 8px 14px;
+  cursor: pointer;
+}
+
+.formulario{background-color: rgb(181, 181, 201);}
